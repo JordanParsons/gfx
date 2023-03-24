@@ -13,4 +13,4 @@ TouchDesigner code for animating the Ridge lines.
 ## Bolts
 ![Ridges](/bolts/bolt.png)
 
-TouchDesigner code for animating little lihgtining bolts with chromatic aberration.
+TouchDesigner code for animating little lightning bolts with chromatic aberration.
