@@ -1,9 +1,16 @@
 # GFX - Experiments
 
-## Lines
+## Ridge
+![Ridges](/ridge/ridge.png)
 
-Python app to generate line based wallpapers.
+[Python code for generating minimal wallpapers.](https://jordancparsons.com/ridge-wallpaper)
 
-### ToDos
+## Animated Ridges
+![Ridges](/ridge/ridge.png)
 
-- Change colors w/o changing lines from keyboard
+TouchDesigner code for animating the Ridge lines.
+
+## Bolts
+![Ridges](/bolts/bolt.png)
+
+TouchDesigner code for animating little lihgtining bolts with chromatic aberration.
